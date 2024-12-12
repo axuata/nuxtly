@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: ['@unocss/nuxt', '@nuxt/fonts'],
+  modules: ['@unocss/nuxt'],
   app: {
     head: {
       charset: 'utf-8',

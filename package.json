@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@iconify-json/tabler": "^1.2.8",
-    "@nuxt/fonts": "^0.10.2",
     "nuxt": "^3.14.159",
     "vue": "latest",
     "vue-router": "latest"
